@@ -1,0 +1,20 @@
+ .description, .recipe-text, .page-links {
+    margin-left: 10vw;
+    font-family: "Arial", "Helvetica", sans-serif;
+}
+
+.page-links li {
+    padding-bottom: 10px;
+}
+
+body {
+    margin-top: 5vw;
+}
+
+.description, .image-box{
+    padding-bottom: 1vw;
+}
+
+ul, ol {
+    padding-bottom: 1vw;
+}
